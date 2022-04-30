@@ -11,7 +11,7 @@
   * [Уровни и типы требований](basic\_knowledge/requirements/urovni-i-tipy-trebovanii/README.md)
     * [Пример: «Создание быстрого заказа»](basic\_knowledge/requirements/urovni-i-tipy-trebovanii/primer-sozdanie-bystrogo-zakaza.md)
   * [Разработка требований](basic\_knowledge/requirements/razrabotka-trebovanii.md)
-  * [Валидация требований](basic\_knowledge/requirements/validaciya-trebovanii.md)
+  * [Управление требованиями](basic\_knowledge/requirements/upravlenie-trebovaniyami.md)
 * [Нотации](basic\_knowledge/notacii/README.md)
   * [BPMN](basic\_knowledge/notacii/bpmn.md)
   * [UML](basic\_knowledge/notacii/uml.md)
@@ -38,7 +38,7 @@
   * [SQL / NOSQL](Systems\_analyst/proektirovanie-modeli-predmetnoi-oblasti/sql-nosql.md)
 * [Дополнительно](Systems\_analyst/dopolnitelno/README.md)
   * [Работа с микросервисами](Systems\_analyst/dopolnitelno/rabota-s-mikroservisami.md)
-  * [Создание коллекций Postman](Systems\_analyst/dopolnitelno/sozdanie-kollekcii-postman.md)
+  * [Postman для системного аналитика](Systems\_analyst/dopolnitelno/postman-dlya-sistemnogo-analitika.md)
 * [Системный аналитик](Systems\_analyst/sistemnyi-analitik.md)
 
 ## Дополнительные навыки <a href="#Extra_skills" id="Extra_skills"></a>
