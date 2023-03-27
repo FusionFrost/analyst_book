@@ -1,29 +1,34 @@
 # Table of contents
 
-* [IT-Аналитик](README.md)
+* [IT - Аналитики](README.md)
+* [Системный аналитик](sistemnyi-analitik/README.md)
+  * [Roadmap системного аналитика](sistemnyi-analitik/roadmap-sistemnogo-analitika.md)
 
 ## Базовые знания <a href="#basic_knowledge" id="basic_knowledge"></a>
 
-* [Анализ](basic\_knowledge/analiz.md)
-* [Системное мышление](basic\_knowledge/system\_thinking.md)
+* [Анализ и синтез](basic\_knowledge/analiz-i-sintez.md)
+* [Аналитическое мышление](basic\_knowledge/analiticheskoe-myshlenie.md)
 * [Требования](basic\_knowledge/requirements/README.md)
   * [Требования к системе (ПО)](basic\_knowledge/requirements/trebovaniya-k-sisteme-po.md)
   * [Уровни и типы требований](basic\_knowledge/requirements/urovni-i-tipy-trebovanii/README.md)
     * [Пример: «Создание быстрого заказа»](basic\_knowledge/requirements/urovni-i-tipy-trebovanii/primer-sozdanie-bystrogo-zakaza.md)
   * [Разработка требований](basic\_knowledge/requirements/razrabotka-trebovanii.md)
   * [Управление требованиями](basic\_knowledge/requirements/upravlenie-trebovaniyami.md)
+* [Система](basic\_knowledge/sistema.md)
+* [Системное мышление](basic\_knowledge/system\_thinking.md)
 * [Нотации](basic\_knowledge/notacii/README.md)
   * [BPMN](basic\_knowledge/notacii/bpmn.md)
   * [UML](basic\_knowledge/notacii/uml.md)
 * [Документирование](basic\_knowledge/dokumentirovanie.md)
+* [Спецификация требований к программному обеспечению](basic\_knowledge/specifikaciya-trebovanii-k-programmnomu-obespecheniyu.md)
+* [Интервью](basic\_knowledge/intervyu.md)
+* [Бизнес-аналитик](basic\_knowledge/biznes-analitik.md)
+* [Бизнес-процессы](basic\_knowledge/biznes-processy.md)
+* [Предметная область](basic\_knowledge/predmetnaya-oblast.md)
 
 ## Бизнес аналитик <a href="#Business_analyst" id="Business_analyst"></a>
 
 * [Бизнес аналитик](Business\_analyst/biznes-analitik.md)
-* [Бизнес-процессы](Business\_analyst/biznes-processy.md)
-* [Предметная область](Business\_analyst/predmetnaya-oblast.md)
-* [Task Lists](Business\_analyst/task-lists.md)
-* [Tasks](Business\_analyst/tasks.md)
 
 ## Системный аналитик <a href="#Systems_analyst" id="Systems_analyst"></a>
 
@@ -39,7 +44,9 @@
 * [Дополнительно](Systems\_analyst/dopolnitelno/README.md)
   * [Работа с микросервисами](Systems\_analyst/dopolnitelno/rabota-s-mikroservisami.md)
   * [Postman для системного аналитика](Systems\_analyst/dopolnitelno/postman-dlya-sistemnogo-analitika.md)
-* [Системный аналитик](Systems\_analyst/sistemnyi-analitik.md)
+* [Примеры](Systems\_analyst/primery.md)
+* [Базы данных](Systems\_analyst/bazy-dannykh.md)
+* [Базовые знания SQL](Systems\_analyst/bazovye-znaniya-sql.md)
 
 ## Дополнительные навыки <a href="#Extra_skills" id="Extra_skills"></a>
 
