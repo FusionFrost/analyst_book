@@ -52,6 +52,16 @@
 
 ## Технические навыки <a href="#systems_analyst" id="systems_analyst"></a>
 
+* [Интернет (Network)](systems\_analyst/internet-network/README.md)
+  * [Интернет](systems\_analyst/internet-network/internet.md)
+  * [Модели OSI/ISO и TCP/IP](systems\_analyst/internet-network/modeli-osi-iso-i-tcp-ip.md)
+  * [HTTP/HTTPS](systems\_analyst/internet-network/http-https.md)
+  * [Browser](systems\_analyst/internet-network/browser.md)
+  * [DNS](systems\_analyst/internet-network/dns.md)
+  * [Домены и URI (Domain and URI)](systems\_analyst/internet-network/domeny-i-uri-domain-and-uri.md)
+  * [Хостинг](systems\_analyst/internet-network/khosting.md)
+* [Разработка (Development)](systems\_analyst/razrabotka-development/README.md)
+  * [Backend](systems\_analyst/razrabotka-development/backend.md)
 * [API & Интеграции (API & Integration)](systems\_analyst/api-and-integracii-api-and-integration/README.md)
   * [GitHub Integration](systems\_analyst/api-and-integracii-api-and-integration/github-integration.md)
   * [Проектирование API](systems\_analyst/api-and-integracii-api-and-integration/proektirovanie-api/README.md)
@@ -61,8 +71,6 @@
 * [Модель данных (Data model)](systems\_analyst/model-dannykh-data-model/README.md)
   * [SQL / NOSQL](systems\_analyst/model-dannykh-data-model/sql-nosql.md)
   * [Базовые знания SQL](systems\_analyst/model-dannykh-data-model/bazovye-znaniya-sql.md)
-* [Интернет (Network)](systems\_analyst/internet-network.md)
-* [Разработка (Development)](systems\_analyst/razrabotka-development.md)
 * [Архитектура (Architecture)](systems\_analyst/arkhitektura-architecture/README.md)
   * [Паттерны проектирования](systems\_analyst/arkhitektura-architecture/patterny-proektirovaniya.md)
 
