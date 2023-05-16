@@ -52,7 +52,7 @@
 
 ## Технические навыки <a href="#systems_analyst" id="systems_analyst"></a>
 
-* [Интернет (Network)](systems\_analyst/internet-network/README.md)
+* [Интернет (Network)](systems\_analyst/internet-network.md)
   * [Интернет](systems\_analyst/internet-network/internet.md)
   * [Модели OSI/ISO и TCP/IP](systems\_analyst/internet-network/modeli-osi-iso-i-tcp-ip.md)
   * [HTTP/HTTPS](systems\_analyst/internet-network/http-https.md)
@@ -60,8 +60,10 @@
   * [DNS](systems\_analyst/internet-network/dns.md)
   * [Домены и URI (Domain and URI)](systems\_analyst/internet-network/domeny-i-uri-domain-and-uri.md)
   * [Хостинг](systems\_analyst/internet-network/khosting.md)
-* [Разработка (Development)](systems\_analyst/razrabotka-development/README.md)
+* [Разработка (Development)](systems\_analyst/razrabotka-development.md)
+  * [GIT (VCS)](systems\_analyst/razrabotka-development/git-vcs.md)
   * [Backend](systems\_analyst/razrabotka-development/backend.md)
+  * [Frontend](systems\_analyst/razrabotka-development/frontend.md)
 * [API & Интеграции (API & Integration)](systems\_analyst/api-and-integracii-api-and-integration/README.md)
   * [GitHub Integration](systems\_analyst/api-and-integracii-api-and-integration/github-integration.md)
   * [Проектирование API](systems\_analyst/api-and-integracii-api-and-integration/proektirovanie-api/README.md)
