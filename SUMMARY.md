@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Бизнес-системные аналитики](README.md)
-* [Roadmap](roadmap.md)
+* [Roadmap](README.md)
+* [Бизнес-системные аналитики](<README (1).md>)
 * [От автора](ot-avtora/README.md)
   * [Правила обновления wiki](ot-avtora/pravila-obnovleniya-wiki.md)
 
@@ -75,9 +75,7 @@
   * [Authentication](systems\_analyst/api-and-integracii-api-and-integration/authentication.md)
   * [Open API](systems\_analyst/api-and-integracii-api-and-integration/open-api.md)
   * [Hateoas](systems\_analyst/api-and-integracii-api-and-integration/hateoas.md)
-  * [Message broker](systems\_analyst/api-and-integracii-api-and-integration/message-broker/README.md)
-    * [RMQ](systems\_analyst/api-and-integracii-api-and-integration/message-broker/rmq.md)
-    * [Kafka](systems\_analyst/api-and-integracii-api-and-integration/message-broker/kafka.md)
+  * [Message broker](systems\_analyst/api-and-integracii-api-and-integration/message-broker.md)
   * [System Integration Patterns](systems\_analyst/api-and-integracii-api-and-integration/system-integration-patterns.md)
 * [Архитектура (Architecture)](systems\_analyst/arkhitektura-architecture/README.md)
   * [Паттерны проектирования (Design patterns)](systems\_analyst/arkhitektura-architecture/patterny-proektirovaniya.md)

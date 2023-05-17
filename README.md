@@ -1,90 +1,33 @@
----
-description: Обсудим кто такие IT-аналитики, какие виды аналитиков бывают и зачем они нужны
----
+# Roadmap
 
-# Бизнес-системные аналитики
+<figure><img src=".gitbook/assets/Education - Roadmap business-system analyst (1).jpg" alt=""><figcaption></figcaption></figure>
 
-> \
->
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
 
+## Навигация по Roadmap
 
+{% tabs %}
+{% tab title="Soft skills" %}
+<mark style="color:green;">#Бизнес аналитик</mark> <mark style="color:green;">#Системный аналитик</mark>
 
+{% content-ref url="basic_knowledge/gibkie-navyki-soft-skills/" %}
+[gibkie-navyki-soft-skills](basic\_knowledge/gibkie-navyki-soft-skills/)
+{% endcontent-ref %}
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Анализ (Analysis)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/analiz-analysis.md">analiz-analysis.md</a></td><td></td></tr><tr><td>Логика (Logic)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/logicheskoe-myshlenie-logics.md">logicheskoe-myshlenie-logics.md</a></td><td></td></tr><tr><td>Креативность (Creativity)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/kreativnost-creativity.md">kreativnost-creativity.md</a></td><td></td></tr><tr><td>Критическое мышление (Critical thinking)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/kriticheskoe-myshlenie-critical-thinking.md">kriticheskoe-myshlenie-critical-thinking.md</a></td><td></td></tr><tr><td>Аналитическое мышление (Analytical thinking)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/analiticheskoe-myshlenie-analytical-thinking.md">analiticheskoe-myshlenie-analytical-thinking.md</a></td><td></td></tr><tr><td>Системное мышление (System thinking)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/system_thinking/">system_thinking</a></td><td></td></tr><tr><td>Быстрая адаптация (Fast adaptation)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/bystraya-adaptaciya-fast-adaptation.md">bystraya-adaptaciya-fast-adaptation.md</a></td><td></td></tr><tr><td>Язык и грамматика (Language and literacy)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/yazyk-i-grammatika-language-and-literacy.md">yazyk-i-grammatika-language-and-literacy.md</a></td><td></td></tr><tr><td>Навыки коммуникации (Communication skills)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/navyki-kommunikacii-sommunication-skills.md">navyki-kommunikacii-sommunication-skills.md</a></td><td></td></tr><tr><td>Предметные области (Domain knowledge)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/predmetnye-oblasti-domain-knowledge.md">predmetnye-oblasti-domain-knowledge.md</a></td><td></td></tr><tr><td>Память (Memory)</td><td></td><td></td><td><a href="basic_knowledge/gibkie-navyki-soft-skills/pamyat-memory.md">pamyat-memory.md</a></td><td></td></tr><tr><td>Интервью (Interview)</td><td></td><td></td><td><a href="basic_knowledge/requirements/intervyu.md">intervyu.md</a></td><td></td></tr></tbody></table>
+{% endtab %}
 
-Мир, каким мы его знаем, состоит из множество сложных систем: солнечная система, государственная система, человеческий организм, международные компании и другие.\
-\
-Есть множество различных специалистов, занимающиеся определенной предметной областью, например, врачи занимаются изучением человеческого организма. У Врачей может быть множество различных специализаций, каждая из которой занимается отдельными частями организма (подсистемами), окулист - глазами и их заболеваниями, дерматолог - кожей, лор - нос, горло и уши. Врачи изучают уже известную предметную область - уже сформированный или только формирующийся организм, который создан природой. Давайте попробуй рассмотреть теперь мир IT-систем. Мы все пользуемся телефонами, поисковиками, удобными приложениями. Все эти системы созданы благодаря техническому прогрессу. Развитие науки и технологий позволило нам создавать сложнейшие IT системы, некоторые из них создавались десятилетиями.&#x20;
+{% tab title="Basic (Hard skills)" %}
+<mark style="color:green;">#Бизнес аналитик</mark> <mark style="color:green;">#Системный аналитик</mark>
 
-При создании небольших IT-продуктов в основном заказчик напрямую обращается к разработчикам и работа выполняется узким кругом специалистов.&#x20;
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Требования (Requirements)</td><td></td><td></td><td><a href="basic_knowledge/requirements/">requirements</a></td></tr><tr><td>Проектирование (Engineering/Design)</td><td></td><td></td><td><a href="basic_knowledge/proektirovanie-engineering-design/">proektirovanie-engineering-design</a></td></tr><tr><td>Процесс (Process)</td><td></td><td></td><td><a href="basic_knowledge/process-process/">process-process</a></td></tr><tr><td>Знание предметной области (Domain knowledge)</td><td></td><td></td><td><a href="basic_knowledge/znaniya-predmetnoi-oblasti-domain-knowledge.md">znaniya-predmetnoi-oblasti-domain-knowledge.md</a></td></tr><tr><td>Нотации (Notations)</td><td></td><td></td><td><a href="basic_knowledge/notacii-notations/">notacii-notations</a></td></tr><tr><td>Документирование (Documentation)</td><td></td><td></td><td><a href="basic_knowledge/dokumentirovanie-documentation.md">dokumentirovanie-documentation.md</a></td></tr><tr><td>Управление продуктом</td><td>(Product managment)</td><td></td><td><a href="basic_knowledge/upravlenie-produktom-product-managment.md">upravlenie-produktom-product-managment.md</a></td></tr><tr><td>Жизненный цикл программного продукта (Product Development Life Cycle)</td><td></td><td></td><td><a href="basic_knowledge/zhiznennyi-cikl-programmnogo-produkta-product-development-life-cycle/">zhiznennyi-cikl-programmnogo-produkta-product-development-life-cycle</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+{% endtab %}
 
-В процессе эволюции и усложнения IT-систем стало понятно, что один специалист (разработчик) не может один погрузится в предметную область, собрать и сформулировать требования, разработать, протестировать, внедрить продукт самостоятельно за относительно короткий промежуток времени. По этой причине в современных командах присутствует множество различных специалистов, каждый из которых выполняет свою задачу в процессе создания проекта/продукта.&#x20;
+{% tab title="Technical (Hard skills)" %}
+&#x20;<mark style="color:green;">#Системный аналитик</mark>
 
-![Пример количества специалистов при реализации простой и сложной IT-системы](<.gitbook/assets/Аналитика (1).jpg>)
-
-{% hint style="warning" %}
-Состав команды может сильно отличаться в зависимости от потребностей организации или разработки определенного проекта/продукта.&#x20;
-{% endhint %}
-
-IT-аналитики занимаются анализом информационных технологий в компаниях и организациях. В зависимости от функциональных обязанностей и целей компании, существует несколько видов IT-аналитиков: бизнес-аналитик, системный аналитик, продуктовый аналитик, аналитик данных, аналитик информационной безопасности.&#x20;
-
-Каждый тип IT-аналитика имеет свои функциональные обязанности и задачи, однако, все они направлены на поддержку и улучшение работы информационных технологий в компании.
-
-
-
-## Системный аналитик <a href="#system_analyst" id="system_analyst"></a>
-
-Системный аналитик занимается анализом, проектированием и оптимизацией информационных систем и бизнес-процессов в компаниях.
-
-Задачи системного аналитика включают в себя:
-
-1. Изучение бизнес-процессов и выявление проблем в их работе.
-2. Анализ требований к информационной системе и ее функциональности.
-3. Разработка концепции информационной системы и ее архитектуры.
-4. Создание спецификаций и технических требований к информационной системе.
-5. Выбор подходящих технологий и платформ для реализации информационной системы.
-6. Управление жизненным циклом проекта, включая планирование, контроль и мониторинг.
-7. Поддержка пользователей и обучение их работе с информационной системой.
-
-### Обязанности системного аналитика
-
-В команде разработки системный аналитик выполняет ряд задач, чтобы обеспечить эффективную работу команды и качество конечного продукта.
-
-В процессе реализации проекта системный аналитик в первую очередь собирает требования с заинтересованных сторон (заказчика, пользователей, бизнес-аналитика, методологов и др.). Необходимо выяснить, что заказчику нужно от программного обеспечения. Он анализирует эти требования на полноту, непротиворечивость, уточняет проблемные места и проводит дополнительные интервью.&#x20;
-
-После анализа требований системный аналитик оформляет собранную информацию в документацию для разработчиков —[ спецификацию требований к программному обеспечению](broken-reference), которая служит основой для проектирования и разработки системы.
-
-Что делает системный аналитик после того, как составил спецификацию требований к ПО для разработчиков? Он отвечает на вопросы дизайнеров, разработчиков и тестировщиков, сопровождает разработку и тестирование.&#x20;
-
-Далее системный аналитик демонстрирует результаты работы заказчику. Помогает в организации обучения пользователей, подготавливает инструкцию для работы в системе.
-
-На этапе сопровождения системный аналитик отвечает на сложные вопросы пользователей, на которые не может ответить техподдержка.
-
-### Отличие бизнес аналитика и системного аналитика
-
-Системный аналитик и бизнес-аналитик имеют сходства, но их роли и задачи различаются.
-
-| **Бизнес-аналитик**                                               | **Системный аналитик**                                                    |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Внедряет изменения в бизнес-процессы                              | Разрабатывает требования к программному обеспечению                       |
-| Может не быть в команде разработки                                | Член команды разработки                                                   |
-| Бизнес-аналитик может не иметь отношения к IT                     | Обязательно IT-специалист                                                 |
-| <p>Должен разбираться в бизнесе<br>Не должен разбираться в IT</p> | <p>Должен разбираться в IT</p><p>Разбираться в бизнесе не обязательно</p> |
-
-
-
-В различных организациях роль бизнес-аналитика и системного аналитика выполняют разные люди, роли могут отличаться по набору решаемых задач в зависимости от потребности организации.&#x20;
-
-Специалисты, имеющие опыт работы как бизнес аналитиками, так и системными аналитиками - назовем фулстек аналитиками. Это, как правило, опытные аналитики, которые понимают как бизнес-процессы и потребности компании, так и техническую часть. Такие специалисты могут довести проект от этапа сбора требований до его внедрения и сопровождения.
-
-##
-
-###
-
-
-
-###
-
-
-
-
-
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Модель данных (Data model)</td><td></td><td></td></tr><tr><td>Интернет (Network)</td><td></td><td></td></tr><tr><td>API и интеграции (API &#x26; Integration)</td><td></td><td></td></tr><tr><td>Разработка (Development)</td><td></td><td></td></tr><tr><td>Архитектура (Architecture)</td><td></td><td></td></tr></tbody></table>
+{% endtab %}
+{% endtabs %}
