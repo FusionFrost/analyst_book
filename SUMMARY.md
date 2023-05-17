@@ -68,9 +68,9 @@
   * [Backend](systems\_analyst/razrabotka-development/backend.md)
   * [Frontend](systems\_analyst/razrabotka-development/frontend.md)
 * [API & Интеграции (API & Integration)](systems\_analyst/api-and-integracii-api-and-integration/README.md)
-  * [REST](systems\_analyst/api-and-integracii-api-and-integration/rest.md)
-  * [SOAP](systems\_analyst/api-and-integracii-api-and-integration/soap.md)
-  * [gRPC](systems\_analyst/api-and-integracii-api-and-integration/grpc.md)
+  * [REST](systems\_analyst/api-and-integracii-api-and-integration/proektirovanie-api/README.md)
+  * [SOAP](systems\_analyst/api-and-integracii-api-and-integration/rabota-s-mikroservisami.md)
+  * [gRPC](systems\_analyst/api-and-integracii-api-and-integration/proektirovanie-api/intercom-integration.md)
   * [GraphQL](systems\_analyst/api-and-integracii-api-and-integration/graphql.md)
   * [Authentication](systems\_analyst/api-and-integracii-api-and-integration/authentication.md)
   * [Open API](systems\_analyst/api-and-integracii-api-and-integration/open-api.md)
@@ -80,7 +80,7 @@
     * [Kafka](systems\_analyst/api-and-integracii-api-and-integration/message-broker/kafka.md)
   * [System Integration Patterns](systems\_analyst/api-and-integracii-api-and-integration/system-integration-patterns.md)
 * [Архитектура (Architecture)](systems\_analyst/arkhitektura-architecture/README.md)
-  * [Паттерны проектирования (Design patterns)](systems\_analyst/arkhitektura-architecture/patterny-proektirovaniya-design-patterns.md)
+  * [Паттерны проектирования (Design patterns)](systems\_analyst/arkhitektura-architecture/patterny-proektirovaniya.md)
   * [Serverless](systems\_analyst/arkhitektura-architecture/serverless.md)
   * [Microservices](systems\_analyst/arkhitektura-architecture/microservices.md)
   * [Client/Server](systems\_analyst/arkhitektura-architecture/client-server.md)
@@ -88,7 +88,7 @@
 
 ## Дополнительные навыки <a href="#Extra_skills" id="Extra_skills"></a>
 
-* [Postman для системного аналитика](Extra\_skills/postman-dlya-sistemnogo-analitika.md)
+* [Postman для системного аналитика](systems\_analyst/api-and-integracii-api-and-integration/postman-dlya-sistemnogo-analitika.md)
 * [Системный аналитик](Extra\_skills/system\_analysis.md)
 * [Системный анализ](Extra\_skills/sistemnyi-analiz.md)
 * [Метод «Зеттелькастен»](Extra\_skills/metod-zettelkasten.md)
