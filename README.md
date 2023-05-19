@@ -1,6 +1,6 @@
 # Roadmap
 
-<figure><img src=".gitbook/assets/Education - Roadmap business-system analyst (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Education - Roadmap business-system analyst (2).jpg" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="README (1).md" %}
 [README (1).md](<README (1).md>)
