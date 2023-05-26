@@ -53,9 +53,9 @@
 ## Технические навыки <a href="#systems_analyst" id="systems_analyst"></a>
 
 * [Модель данных (Data model)](systems\_analyst/model-dannykh-data-model/README.md)
-  * [Relational Databases](systems\_analyst/model-dannykh-data-model/relational-databases.md)
+  * [Реляционные базы данных(Relational Databases)](systems\_analyst/model-dannykh-data-model/relyacionnye-bazy-dannykh-relational-databases.md)
   * [NoSQL databases](systems\_analyst/model-dannykh-data-model/nosql-databases.md)
-  * [SQL](systems\_analyst/model-dannykh-data-model/sql.md)
+  * [SQL](systems\_analyst/model-dannykh-data-model/bazovye-znaniya-sql.md)
   * [ETL](systems\_analyst/model-dannykh-data-model/etl.md)
   * [File storage](systems\_analyst/model-dannykh-data-model/file-storage.md)
   * [Data visualization](systems\_analyst/model-dannykh-data-model/data-visualization.md)
