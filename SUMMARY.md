@@ -53,8 +53,12 @@
 ## Технические навыки <a href="#systems_analyst" id="systems_analyst"></a>
 
 * [Модель данных (Data model)](systems\_analyst/model-dannykh-data-model/README.md)
-  * [SQL / NOSQL](systems\_analyst/model-dannykh-data-model/sql-nosql.md)
-  * [Базовые знания SQL](systems\_analyst/model-dannykh-data-model/bazovye-znaniya-sql.md)
+  * [Relational Databases](systems\_analyst/model-dannykh-data-model/relational-databases.md)
+  * [NoSQL databases](systems\_analyst/model-dannykh-data-model/nosql-databases.md)
+  * [SQL](systems\_analyst/model-dannykh-data-model/sql.md)
+  * [ETL](systems\_analyst/model-dannykh-data-model/etl.md)
+  * [File storage](systems\_analyst/model-dannykh-data-model/file-storage.md)
+  * [Data visualization](systems\_analyst/model-dannykh-data-model/data-visualization.md)
 * [Интернет (Network)](systems\_analyst/internet-network.md)
   * [Интернет](systems\_analyst/internet-network/internet.md)
   * [Модели OSI/ISO и TCP/IP](systems\_analyst/internet-network/modeli-osi-iso-i-tcp-ip.md)
@@ -83,13 +87,3 @@
   * [Microservices](systems\_analyst/arkhitektura-architecture/microservices.md)
   * [Client/Server](systems\_analyst/arkhitektura-architecture/client-server.md)
   * [Layered](systems\_analyst/arkhitektura-architecture/layered.md)
-
-## Дополнительные навыки <a href="#Extra_skills" id="Extra_skills"></a>
-
-* [Postman для системного аналитика](systems\_analyst/api-and-integracii-api-and-integration/postman-dlya-sistemnogo-analitika.md)
-* [Системный аналитик](Extra\_skills/system\_analysis.md)
-* [Системный анализ](Extra\_skills/sistemnyi-analiz.md)
-* [Метод «Зеттелькастен»](Extra\_skills/metod-zettelkasten.md)
-* [Работа человеческого мозга](Extra\_skills/human\_brain.md)
-* [Работа с UX/UI дизайнерами](Extra\_skills/rabota-s-ux-ui-dizainerami.md)
-* [Упражнения для развития мозга](Extra\_skills/uprazhneniya-dlya-razvitiya-mozga.md)
