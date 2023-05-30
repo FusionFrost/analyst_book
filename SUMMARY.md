@@ -52,15 +52,15 @@
 
 ## Технические навыки <a href="#systems_analyst" id="systems_analyst"></a>
 
-* [Работа с данными (Work with Data)](systems\_analyst/rabota-s-dannymi-work-with-data/README.md)
+* [Работа с данными (Work with Data)](systems\_analyst/model-dannykh-data-model/README.md)
   * [Модель данных](systems\_analyst/rabota-s-dannymi-work-with-data/model-dannykh.md)
   * [Базы данных](systems\_analyst/rabota-s-dannymi-work-with-data/bazy-dannykh/README.md)
-    * [Реляционные базы данных(Relational Databases)](systems\_analyst/rabota-s-dannymi-work-with-data/bazy-dannykh/relyacionnye-bazy-dannykh-relational-databases.md)
-    * [NoSQL databases](systems\_analyst/rabota-s-dannymi-work-with-data/bazy-dannykh/nosql-databases.md)
-    * [SQL](systems\_analyst/rabota-s-dannymi-work-with-data/bazy-dannykh/sql.md)
-  * [ETL](systems\_analyst/rabota-s-dannymi-work-with-data/etl.md)
-  * [File storage](systems\_analyst/rabota-s-dannymi-work-with-data/file-storage.md)
-  * [Data visualization](systems\_analyst/rabota-s-dannymi-work-with-data/data-visualization.md)
+    * [Реляционные базы данных(Relational Databases)](systems\_analyst/model-dannykh-data-model/relyacionnye-bazy-dannykh-relational-databases.md)
+    * [NoSQL databases](systems\_analyst/model-dannykh-data-model/nosql-databases.md)
+    * [SQL](systems\_analyst/model-dannykh-data-model/bazovye-znaniya-sql.md)
+  * [ETL](systems\_analyst/model-dannykh-data-model/etl.md)
+  * [File storage](systems\_analyst/model-dannykh-data-model/file-storage.md)
+  * [Data visualization](systems\_analyst/model-dannykh-data-model/data-visualization.md)
 * [Интернет (Network)](systems\_analyst/internet-network.md)
   * [Интернет](systems\_analyst/internet-network/internet.md)
   * [Модели OSI/ISO и TCP/IP](systems\_analyst/internet-network/modeli-osi-iso-i-tcp-ip.md)
