@@ -15,4 +15,6 @@ SQL (Structured Query Language) — декларативный язык прог
 
 Посетите следующие ресурсы, чтобы узнать больше:
 
+[Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/?utm\_source=tproger\_right\_sidebar\&utm\_medium=frontpage\&utm\_campaign=live\_blocks\&utm\_term=read\_block)
+
 [https://www.text2sql.ai/app](https://www.text2sql.ai/app)
