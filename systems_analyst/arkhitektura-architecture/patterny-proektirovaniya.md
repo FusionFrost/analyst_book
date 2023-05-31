@@ -16,4 +16,6 @@
 
 Посетите следующие ресурсы, чтобы узнать больше:
 
-[https://refactoring.guru/ru/design-patterns](https://refactoring.guru/ru/design-patterns)
+{% embed url="https://refactoring.guru/ru/design-patterns" %}
+
+[https://www.youtube.com/watch?v=7tXC5ReNRAQ\&list=WL\&index=3\&ab\_channel=Winderton](https://www.youtube.com/watch?v=7tXC5ReNRAQ\&list=WL\&index=3\&ab\_channel=Winderton)
