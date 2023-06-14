@@ -6,7 +6,17 @@
 
 Данный проект планировал развивать как opensource продукт, который будет развиваться сообществом аналитиков. Для вструпления в команду, по всем вопросам и предложениям можно писать на почту pavel.shepshelevich@gmail.com или в телеграм  [Shepshel](http://localhost:5000/u/BoQ38zjPJ3bpDa3f0vPiruhnGuh2 "mention")
 
-Если хотитет поддержать проект:&#x20;
+Если хотите поддержать проект:&#x20;
+
+{% embed url="https://boosty.to/shepshel/donate" %}
+
+Поддержать криптовалютой:&#x20;
+
+USDT (TRC20): TNwUVYfj2oweiyf8xvp9rfm9HVnAmCa7PU
+
+BTC: bc1q2mwz0gcq2ul7nkx5066xk5gqvuwn2e6c7ylj0y
+
+ETH: 0x6331182EC761F3e28a3B7c10f36b952Ed3e52Fd7
 
 
 
