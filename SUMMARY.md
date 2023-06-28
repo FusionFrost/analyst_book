@@ -2,8 +2,7 @@
 
 * [Roadmap](README.md)
 * [Бизнес-системные аналитики](<README (1).md>)
-* [От автора](ot-avtora/README.md)
-  * [Правила обновления wiki](ot-avtora/pravila-obnovleniya-wiki.md)
+* [От автора](ot-avtora.md)
 
 ## Базовые знания <a href="#basic_knowledge" id="basic_knowledge"></a>
 
